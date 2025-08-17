@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "postgresdb": {
+      "command": "/Users/user/Workspace/mine/mcp/mcp-101/venv/bin/python3",
+      "args": ["/Users/user/Workspace/mine/mcp/mcp-101/query_tool.py"],
+      "cwd": "/Users/user/Workspace/mine/mcp/mcp-101",
+      "env": {}
+    },
+    "mcp2": {
+      "command": "/Users/user/Workspace/mine/mcp/mcp-101/venv/bin/python3",
+      "args": ["/Users/user/Workspace/mine/mcp/mcp-101/mcp_server2.py"],
+      "cwd": "/Users/user/Workspace/mine/mcp/mcp-101",
+      "env": {}
+    }
+  }
+}
